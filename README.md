@@ -1,0 +1,1 @@
+This exercise is design to test my basic understanding of html to build a recipe website and use Git commands to push and commit my changes.
